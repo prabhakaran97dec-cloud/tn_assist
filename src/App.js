@@ -45,7 +45,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gray-50 p-4 sm:p-8">
       <h1 className="text-3xl sm:text-4xl font-bold text-center text-indigo-600 mb-8">
-        Tamil Nadu Services Directory Web
+        Tamil Nadu Services Directory Web a
       </h1>
 
       <div className="max-w-xl mx-auto mb-8">
